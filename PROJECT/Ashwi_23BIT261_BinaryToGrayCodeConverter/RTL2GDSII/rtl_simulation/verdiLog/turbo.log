@@ -1,0 +1,4 @@
+Command Line: /home/synopsys_install/verdi/W-2024.09/platform/LINUXAMD64/bin/Novas -ssf simulation.fsdb
+uname(Linux ict-chipin.sot.pdpu.ac.in 4.18.0-553.el8_10.x86_64 #1 SMP Fri May 24 13:05:10 UTC 2024 x86_64)
+License: Successfully re-acquired feature: VERDI-ULTRA.
+au time 1491.638866 6.197546 1.203835 delta 284168192 284168192 total 1292230656 1292230656
